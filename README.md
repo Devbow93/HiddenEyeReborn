@@ -1,5 +1,4 @@
-<p align="center">
-    <img src="https://github.com/Open-Security-Group-OSG/HiddenEyeReborn/raw/main/art/HiddenEyeLogo.svg" width="400">
+description-file = README.md-Security-Group-OSG/HiddenEyeReborn/raw/main/art/HiddenEyeLogo.svg" width="400">
 </p>
 <p align="center">
     <img src="https://github.com/Open-Security-Group-OSG/HiddenEyeReborn/raw/main/art/HE:RE_text.svg" width="720">
